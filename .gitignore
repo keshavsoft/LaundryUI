@@ -1,0 +1,14 @@
+node_modules/
+
+bin/
+dist/
+
+KData/
+publicDir/
+publicStatic/
+
+.env
+.vscode
+.log
+
+defineConfig.js
